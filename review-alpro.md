@@ -13,3 +13,5 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 ## 🧩 Latihan:
 - Buat fungsi rekursif untuk faktorial dan fibonacci
 - Manipulasi array dan string tanpa library built-in
+- Psets TOKI Beginner 001
+- Psets TOKI Beginner 002
