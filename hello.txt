@@ -1,2 +1,0 @@
-"hello dari fitur baru"
-sbm merge from github
