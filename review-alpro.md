@@ -4,6 +4,7 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 - Konsep algoritma & flowchart
 - Tipe data primitif (int, float, string, boolean)
 - Array & string dasar
+  - Slicing & Indexing
 - Fungsi, parameter, return value
 - Rekursi (dasar penting untuk struktur data nanti)
 
@@ -13,3 +14,5 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 ## 🧩 Latihan:
 - Buat fungsi rekursif untuk faktorial dan fibonacci
 - Manipulasi array dan string tanpa library built-in
+- Psets TOKI Beginner 001
+- Psets TOKI Beginner 002
