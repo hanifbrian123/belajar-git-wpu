@@ -1,7 +1,7 @@
-# Outline Materi Struktur Data IF2A - Genap 2025
+# Outline Materi Struktur Data IF2A
 1. Kontrak Praktikum 
-2. Review Alpro
-3. Review Alpro
+2. Review Alpro 1 (Tipe data, Operator, IF)
+3. Review Alpro 2 (List, Dict, String)
 4. Stack
 5. queue
 6. sorting
