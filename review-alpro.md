@@ -14,5 +14,3 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 ## 🧩 Latihan:
 - Buat fungsi rekursif untuk faktorial dan fibonacci
 - Manipulasi array dan string tanpa library built-in
-- TOKI Beginner Problem 1
-- TOKI Beginner Problem 2
