@@ -4,7 +4,6 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 - Konsep algoritma & flowchart
 - Tipe data primitif (int, float, string, boolean)
 - Array & string dasar
-  * Slicing dan Indexing
 - Fungsi, parameter, return value
 - Rekursi (dasar penting untuk struktur data nanti)
 
