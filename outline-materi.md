@@ -1,4 +1,4 @@
-# Outline Materi Struktur Data IF2A
+# Outline Materi Struktur Data IF2A - Genap 2025
 1. Kontrak Praktikum 
 2. Review Alpro
 3. Review Alpro
