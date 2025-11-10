@@ -16,3 +16,6 @@ Tujuan: memahami variabel, tipe data, kontrol alur, dan fungsi.
 - 6 Problems Leetcode Easy
 - 3 Problems Leetcode Medium
 - 1 Problems Leetcode Hard
+- Manipulasi array dan string tanpa library built-in
+- Psets TOKI Beginner 001
+- Psets TOKI Beginner 002
